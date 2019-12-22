@@ -1,1 +1,1 @@
-This is Data management where to do uses Vue.js
+This is Data management using by Vue.js
